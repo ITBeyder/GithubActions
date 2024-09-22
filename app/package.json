@@ -1,0 +1,20 @@
+{
+  "name": "cards-game",
+  "version": "1.0.0",
+  "description": "card game build with javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITBeyder/github-actions.git"
+  },
+  "author": "itay beyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITBeyder/github-actions/issues"
+  },
+  "homepage": "https://github.com/ITBeyder/github-actions#readme"
+}
